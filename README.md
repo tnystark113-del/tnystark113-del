@@ -50,9 +50,6 @@
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=tnystark113-del&show_icons=true&hide_border=false&bg_color=0D0221&title_color=00F0FF&icon_color=FF00E5&text_color=FFFFFF&border_color=FF00E5&border_radius=12" alt="GitHub stats" />
 <img height="170" src="https://streak-stats.demolab.com?user=tnystark113-del&background=0D0221&ring=00F0FF&fire=FF00E5&currStreakLabel=00F0FF&sideLabels=FF00E5&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9EA7B3&stroke=FF00E5&border=FF00E5&borderRadius=12" alt="GitHub streak" />
 
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tnystark113-del&bg_color=0D0221&color=00F0FF&line=FF00E5&point=FFFFFF&area=true&area_color=FF00E5&hide_border=true" width="95%" alt="Activity graph" />
 
 </div>
 
